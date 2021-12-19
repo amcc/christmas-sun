@@ -1,0 +1,20 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #3f3f3f;
+}
+
+p {
+  width: max(300px, 40vw);
+}
+
+model-viewer {
+  width: 100%;
+  height: 80vh;
+}
