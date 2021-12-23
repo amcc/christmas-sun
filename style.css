@@ -22,6 +22,9 @@ section {
 p {
   width: max(300px, 40vw);
 }
+em {
+  font-weight: 500;
+}
 
 model-viewer {
   width: 100%;
